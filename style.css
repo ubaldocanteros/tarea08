@@ -1,0 +1,31 @@
+body { background-image:  url(https://img2.freepng.es/20181026/zwp/kisspng-desktop-wallpaper-portable-network-graphics-graphi-rewards-and-recognition-background-3-92-timehd-5bd36f8fef20b7.3084627815405833119795.jpg);}
+
+#Texto1{
+    width:80%;
+    float:left;
+    font-family:Verdana;
+    font-size:150%;
+    text-align:justify;
+    }
+    #p_texto1{text-align:center;
+    margin-bottom:2em;}
+    #imagen1{
+    width:20%;
+    float:right;
+    }
+    #separacion{
+    clear:both;
+    }
+    #texto2, #texto2 p ul{
+        width:75%;
+        float:right;
+        font-size:200%;
+        text-align:justify;
+        }
+        #p_texto2, #p_texto2 p ul{
+        text-align:center;
+        }
+        #imagen2{
+        width:25%;
+        float:left;
+        }
